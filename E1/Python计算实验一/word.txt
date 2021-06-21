@@ -1,0 +1,9 @@
+a
+b
+a
+c
+c
+b
+bb
+bb
+apple
